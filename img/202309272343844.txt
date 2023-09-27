@@ -1,0 +1,18 @@
+
+
+验证通过! You've passed the verification!
+
+我们所使用的客户端是 Clash. 您需要安装客户端, 并将下面的订阅地址填入客户端, 就可以使用我们的服务器翻墙.
+Our client software is called Clash. You need to install Clash and use a subscription link to use our server to circumvent the censorship.
+
+您的 Clash 订阅地址为: Your Clash subscription link is:
+https://subs.941321.xyz/clash/2300011068@stu.pku.edu.cn/4dmj87czj3
+请保存这个地址; 在稍后的操作中会用到这个订阅地址. Save this link to your computer for later use.
+
+下面这个连接会告诉您客户端的下载地址和操作方式: Open the following link to read the instructions to Clash:
+使用手册 Instructions.
+您可以保存上述地址以备日后查看. You may want to save the above link for future use.
+
+要查看您的账户信息, 包括流量记录等, 请保存 profile: To view your account profile, use/save the following link:
+https://profile.941321.xyz/profile/2300011068@stu.pku.edu.cn/4dmj87czj3
+(它不是订阅地址! This is not the subs link!)
